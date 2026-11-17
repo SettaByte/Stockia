@@ -1,0 +1,2 @@
+# Stockia
+Software para stock
